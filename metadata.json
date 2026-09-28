@@ -1,0 +1,6 @@
+{
+  "name": "Chaudhary Battery And UPS F10",
+  "description": "Premier battery retailer and wholesaler in F-10 Markaz, Islamabad, Pakistan. Genuine automotive, solar, and UPS batteries from AGS, Daewoo, Volta, Osaka, Exide, and Phoenix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
